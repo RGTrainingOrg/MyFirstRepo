@@ -1,3 +1,5 @@
+name: YYEEESSS"
+
 on:
   workflow_dispatch:
   
@@ -9,5 +11,5 @@ jobs:
     steps:
     - name: run echo
       run: |
-        echo "YYEESS"
+        echo "YYEESS!!!"
     
